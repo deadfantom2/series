@@ -1,0 +1,33 @@
+get link on bootstrap site
+
+
+1)create-react-app series
+2)npm i react-router-dom
+3)npm install --save video-react react react-dom redux
+4)
+5)
+6)
+7)
+8)
+9)
+
+
+/*
+echo "# reservation" >> README.md
+git init
+git add README.md
+git add .
+git commit -m "systeme auth/ création user/ envoit du mail"
+git remote add origin https://github.com/deadfantom2/reservation.git
+git push -u origin master
+
+git push -f origin master
+*/
+
+/*
+git add .
+git commit -m "reservation finish"
+git push -u origin master
+*/
+*
+
