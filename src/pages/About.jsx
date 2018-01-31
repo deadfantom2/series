@@ -16,8 +16,6 @@ class About extends Component {
 
                 <Footer /> {/* Footer se  trouve dans ../components/Footer */}
             </div>
-
-
         );
     }
 }
