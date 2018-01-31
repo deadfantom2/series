@@ -1,1 +1,0 @@
-export const API_TMDb_DISCOVER_URL = 'https://api.themoviedb.org/3/discover/movie?api_key=5ce147dcafdc4e8d47d3dc6dfdb5f2d8';

@@ -6,7 +6,7 @@ import './App.css';
 import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
-import Film from './pages/film/Film';
+import Films from './pages/Films';
 import Players from './pages/Players';
 
 class App extends Component {
@@ -18,7 +18,7 @@ class App extends Component {
             <Route exact path="/" component={Home} /> {/* exact route principal pour le path basic */}
             <Route path="/about" component={About} /> {/* le path /about */}
             <Route path="/contact" component={Contact} /> {/* le path /about */}
-            <Route path="/film" component={Film} /> {/* le path /about */}
+            <Route path="/films" component={Films} /> {/* le path /about */}
             <Route path="/player" component={Players} /> {/* le path /about */}
           </div>
         </Router>

@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 import Jumbotron from '../components/Jumbotron';
 import Footer from '../components/Footer';
-
-
-
 import './Home.css';
 
 class Home extends Component {
@@ -15,7 +12,6 @@ class Home extends Component {
             password: ''
         }
     }
-
 
     //onclick button avec la redirect to about
     register(){
@@ -35,7 +31,6 @@ class Home extends Component {
                         <h2>Login</h2>
                     </div>
 
-
                     <div className="container">
                         <div className="row">
                             <div className="col-md-offset-5 col-md-3">
@@ -49,22 +44,10 @@ class Home extends Component {
                         </div>
                     </div>
 
-
-
-
                 <Footer /> {/* Footer se  trouve dans ../components/Footer */}
             </div>
-
-
         );
-
-
-
-
     }
-
-
-
 }
 
 export default Home;
