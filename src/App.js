@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Film from './pages/film/Film';
+import Players from './pages/Players';
 
 class App extends Component {
   render() {
@@ -18,6 +19,7 @@ class App extends Component {
             <Route path="/about" component={About} /> {/* le path /about */}
             <Route path="/contact" component={Contact} /> {/* le path /about */}
             <Route path="/film" component={Film} /> {/* le path /about */}
+            <Route path="/player" component={Players} /> {/* le path /about */}
           </div>
         </Router>
 

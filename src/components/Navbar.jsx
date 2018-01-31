@@ -22,6 +22,9 @@ class Navbar extends Component{
                            <li className="nav-item">
                                <Link className="nav-link" to="/film">Film</Link>
                            </li>
+                           <li className="nav-item">
+                               <Link className="nav-link" to="/player">Player</Link>
+                           </li>
                        </ul>
 
                    </div>

@@ -18,7 +18,7 @@ git init
 git add README.md
 git add .
 git commit -m "systeme auth/ création user/ envoit du mail"
-git remote add origin https://github.com/deadfantom2/reservation.git
+git remote add origin https://github.com/deadfantom2/series.git
 git push -u origin master
 
 git push -f origin master
